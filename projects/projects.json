@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Bliss Decrypto",
+    "desc": "Bliss Decrypto is an easy-to-use app for securely encrypting and decrypting messages with a password.",
+    "image": "enc",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "Bliss%20Decrypto.apk"
+    }
+  },
+  {
+    "name": "Trisho",
+    "desc": "Trisho is a simple app for easy video calls. It provides clear video and audio, making it effortless to connect with others.",
+    "image": "video",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://drive.google.com/file/d/1dBNq3lHgdeizMOYuf10j9-8xrlZ8S7-B/view?usp=sharing"
+    }
+  },
+  
+  
+  
+ 
+  {
+    "name": "Web-Photoshop",
+    "desc": "First time on the internet replica of photoshop.",
+    "image": "web",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+ 
+  {
+    "name": "Pass-Generate",
+    "desc": "Password Generator: Create strong, unique passwords quickly by customizing length and complexity.",
+    "image": "pass",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+ 
+ 
+  {
+    "name": "WEB ENCRYPTO",
+    "desc": "Encryption.",
+    "image": "webenc",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+ 
+ 
+ 
+ {
+    "name": "Anonymous Chat",
+    "desc": "Anonymous chat lets people talk online without sharing their real names or personal details.",
+    "image": "any",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+ 
+ 
+  {
+    "name": "One Card",
+    "desc": "Card",
+    "image": "card",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+ 
+
+  
+  
+  {
+    "name": "Radha Mohan",
+    "desc": "Design",
+    "image": "radhe",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  
+  
+  {
+    "name": "Board",
+    "desc": "Sign Board",
+    "image": "board",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+  
+  
+   {
+    "name": "P.k. Lekhal Llp",
+    "desc": "Company",
+    "image": "lekha",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+   {
+    "name": "Rangoli",
+    "desc": "Rangoli",
+    "image": "rang",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  
+     {
+    "name": "Card",
+    "desc": "Dindoshi",
+    "image": "din",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+
+  {
+    "name": "Design",
+    "desc": "Design",
+    "image": "design",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+
+ {
+    "name": "Flex",
+    "desc": "Navdurga",
+    "image": "flex",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+ {
+    "name": "Satyamev Jayate",
+    "desc": "Satyamev Jayate logo",
+    "image": "sat",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+
+  
+  {
+    "name": "Kumud Tutorial",
+    "desc": "Classes",
+    "image": "kumud",
+    "category": "design",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
