@@ -13,41 +13,41 @@
     },
     {
         "name": "Graphic Design",
-        "icon": "/logo/gra.png"
+        "icon": "/mr_singh/logo/gra.png"
     },
     {
         "name": "Social Engineer",
-        "icon": "/logo/soc.png"
+        "icon": "/mr_singh/logo/soc.png"
     },
     {
         "name": "Ms Office",
-        "icon": "/logo/ms.png"
+        "icon": "/mr_singh/logo/ms.png"
     },
     {
         "name": "Video Editing",
-        "icon": "/logo/vid.png"
+        "icon": "/mr_singh/logo/vid.png"
     },
     {
         "name": "Web Developer",
-        "icon": "/logo/web.png"
+        "icon": "/mr_singh/logo/web.png"
     },
     {
         "name": "Conspiracy Theory",
-        "icon": "/logo/cons.png"
+        "icon": "/mr_singh/logo/cons.png"
     },
     {
         "name": "Hypnotherapy",
-        "icon": "/logo/hyp.png"
+        "icon": "/mr_singh/logo/hyp.png"
     },
     {
         "name": "Programmer",
-        "icon": "/logo/pro.png"
+        "icon": "/mr_singh/logo/pro.png"
     },
 
     
    
     {
         "name": "Stock Analyst",
-        "icon": "/logo/stock.png"
+        "icon": "/mr_singh/logo/stock.png"
     }    
 ]
