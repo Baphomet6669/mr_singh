@@ -2,7 +2,7 @@
   {
     "name": "Bliss Decrypto",
     "desc": "Bliss Decrypto is an easy-to-use app for securely encrypting and decrypting messages with a password.",
-    "image": "enc",
+    "image": "/mr_singh/assets/images/projects/enc.png",
     "category": "android",
     "links": {
       "view": "#",
